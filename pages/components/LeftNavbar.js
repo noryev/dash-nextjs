@@ -5,7 +5,7 @@ function LeftNavbar() {
     return (
     <div className={styles.navcontainer}>
         <div> className={styles.logo}>
-            <h2>Streamline</h2>
+            <h2>Fenring</h2>
         </div>
         <div className={styles.wrapper}>
             <ul>
