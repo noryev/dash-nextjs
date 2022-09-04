@@ -11,7 +11,6 @@ export default function Home() {
         <meta name="description" content="Created by Noyev" />
         <link rel="icon" href="/pro.ico" />
       </Head>
-      <h1>Lets build an IPFS dashboard!</h1>
       <LeftNavbar/>
       {/*header*/}
       {/*Content*/}
