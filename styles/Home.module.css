@@ -49,6 +49,12 @@
     transition: 0.2s;
 }
 
+.graph-container{
+      /* Using viewport width and height so that the graph doesn't leak out of it. */
+  width: 400px;
+  height: 400px;
+}
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
 .navcontainer{
