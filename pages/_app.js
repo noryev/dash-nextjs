@@ -32,6 +32,8 @@ const IpfsComponent = () => {
   if (!ipfs || !id) {
     return <h4>Connecting to IPFS....</h4>
   }
+  
+// now make it show up :D
 
   return (
     <div>
