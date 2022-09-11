@@ -13,6 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "chart.js": "^3.3.2",
+    "ipfs-core": "^0.16.0",
     "next": "12.1.0",
     "next-images": "^1.7.0",
     "react": "17.0.2",
