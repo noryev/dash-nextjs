@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "../../styles/Home.module.css";
-import Image from "../../images/watermark.png";
 
 function Header() {
 	return (
@@ -12,11 +11,10 @@ function Header() {
 					</h2>
 					<p>welcome to the board</p>
 				</div>
-				<div className={styles.profile}>
-					<img src={Image} alt="profile" className={styles.image} />
+
 				</div>
 			</div>
-		</div>
+		
 	);
 }
 
