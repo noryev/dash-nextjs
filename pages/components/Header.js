@@ -48,11 +48,11 @@ function Header() {
 					</h2>
 					<p>welcome to the board</p>
 				</div>
-				<div> 
-     		<h4 data-test="id">ID: {id.toString()}</h4>
-    		<h4 data-test="version">Version: {version}</h4>
-     		<h4 data-test="status">Status: {isOnline ? 'Online' : 'Offline' }</h4>
-    	</div>
+					<div> 
+     			<h4 data-test="id">ID: {id.toString()}</h4>
+    			<h4 data-test="version">Version: {version}</h4>
+     			<h4 data-test="status">Status: {isOnline ? 'Online' : 'Offline' }</h4>
+    				</div>
 	
   			</div>
 				</div>
