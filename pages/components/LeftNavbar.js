@@ -14,7 +14,7 @@ function LeftNavbar() {
 	return (
 		<div className={styles.navcontainer}>
 			<div className={styles.logo}>
-				<h2>IPFS Statviewer</h2>
+				<h2>GraphSense for IPFS</h2>
 			</div>
 			<div className={styles.wrapper}>
 				<ul>

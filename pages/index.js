@@ -9,7 +9,7 @@ export default function Home() {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Fenring</title>
+				<title>GraphSense</title>
 				<meta name="description" content="Created by streamline" />
 				<link rel="icon" href="/pro.ico" />
 			</Head>
